@@ -17,12 +17,10 @@ Smart line-following robot using IR sensors and motor control, developed as part
 
 ## 📁 Project Structure
 
-<pre> 
-   LineFollower 
+<pre>LineFollower 
    ├── LineFollower.ino # Main Arduino source file 
    ├── README.md # Project documentation
-   └── LICENSE # SDU License (custom academic license) 
-</pre>
+   └── LICENSE # SDU License (custom academic license)</pre>
 
 ---
 
