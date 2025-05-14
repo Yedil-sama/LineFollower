@@ -17,7 +17,7 @@ Smart line-following robot using IR sensors and motor control, developed as part
 
 ## 📁 Project Structure
 
-LineFollower/
+LineFollower
 ├── LineFollower.ino # Main Arduino source file
 ├── README.md # Project documentation
 └── LICENSE # SDU License (custom academic license)
@@ -37,7 +37,7 @@ LineFollower/
 ## 🔌 Pin Configuration
 
 | Component         | Arduino Pin |
-|------------------|-------------|
+|-------------------|-------------|
 | Left Motor EN     | D5          |
 | Left Motor IN1    | D9          |
 | Left Motor IN2    | D10         |
